@@ -1,0 +1,16 @@
+{
+  "author": "Jann Horn <jannhorn@googlemail.com>",
+  "name": "context",
+  "description": "Shared context without passing stuff down all the way",
+  "version": "0.1.0",
+  "homepage": "https://github.com/thejh/node-context",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thejh/node-context.git"
+  },
+  "engines": {
+    "node": "~v0.4.11"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
